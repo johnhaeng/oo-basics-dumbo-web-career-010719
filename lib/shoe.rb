@@ -10,5 +10,6 @@ class Shoe
   end
   
   def color
+  end
 end
 
